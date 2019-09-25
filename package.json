@@ -1,0 +1,31 @@
+{
+  "name": "manila-luzon",
+  "version": "0.2.0",
+  "author": "facundo.gz",
+  "description": "API for outages",
+  "contributors": [
+    {
+      "name": "Facundo Greco",
+      "email": "facundo.gz@outlook.com"
+    }
+  ],
+  "main": "./server.js",
+  "keywords": [
+    "azure",
+    "boilerplate",
+    "express"
+  ],
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "morgan": "~1.9.1"
+  },
+  "noAnalyze": true,
+  "license": "Apache",
+  "engines": {
+    "node": "8.10.0"
+  }
+}
